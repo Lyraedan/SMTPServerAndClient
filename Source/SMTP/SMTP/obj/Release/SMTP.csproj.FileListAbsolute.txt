@@ -1,0 +1,9 @@
+G:\Uni SMTP\SMTP\SMTP\bin\Release\SMTP.exe.config
+G:\Uni SMTP\SMTP\SMTP\bin\Release\SMTP.exe
+G:\Uni SMTP\SMTP\SMTP\bin\Release\SMTP.pdb
+G:\Uni SMTP\SMTP\SMTP\obj\Release\SMTP.Form1.resources
+G:\Uni SMTP\SMTP\SMTP\obj\Release\SMTP.Properties.Resources.resources
+G:\Uni SMTP\SMTP\SMTP\obj\Release\SMTP.csproj.GenerateResource.cache
+G:\Uni SMTP\SMTP\SMTP\obj\Release\SMTP.csproj.CoreCompileInputs.cache
+G:\Uni SMTP\SMTP\SMTP\obj\Release\SMTP.exe
+G:\Uni SMTP\SMTP\SMTP\obj\Release\SMTP.pdb

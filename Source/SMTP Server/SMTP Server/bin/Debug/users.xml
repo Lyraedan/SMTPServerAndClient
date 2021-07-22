@@ -1,0 +1,9 @@
+<users>
+  <user email="test@example.net" hash="5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8" token="pvf/ONot9kG4KAoNXyPsbQ==" />
+  <user email="luke@test.com" hash="d6329ea92988518c7cc899f0bde95723921bf3c366b98a7ed49778bbc8a18a65" token="wiYBvYpMS0qhwIKMM9T+ZA==" />
+  <user email="test@arena.org" hash="8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918" token="DKbG9xos+ECyaugf9QoyMA==" />
+  <user email="abc@123.org" hash="5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5" token="p4/pdcFL9UaLbOvbnc9+Ow==" />
+  <user email="email@email.email" hash="82244417f956ac7c599f191593f7e441a4fafa20a4158fd52e154f1dc4c8ed92" token="tGWITMcOwE24b1IrGCOyag==" />
+  <user email="test@showcase.org" hash="5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8" token="HMQWHSP1nkyGFEiU3DjorQ==" />
+  <user email="email@bestmail.net" hash="5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8" token="qCoKBwhDBkCgTsPqryMRYQ==" />
+</users>

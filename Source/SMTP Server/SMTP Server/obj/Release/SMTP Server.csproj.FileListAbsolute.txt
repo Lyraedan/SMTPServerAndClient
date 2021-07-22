@@ -1,0 +1,9 @@
+G:\Uni SMTP\SMTP Server\SMTP Server\bin\Release\SMTP Server.exe.config
+G:\Uni SMTP\SMTP Server\SMTP Server\bin\Release\SMTP Server.exe
+G:\Uni SMTP\SMTP Server\SMTP Server\bin\Release\SMTP Server.pdb
+G:\Uni SMTP\SMTP Server\SMTP Server\obj\Release\SMTP Server.csprojAssemblyReference.cache
+G:\Uni SMTP\SMTP Server\SMTP Server\obj\Release\SMTP_Server.Form1.resources
+G:\Uni SMTP\SMTP Server\SMTP Server\obj\Release\SMTP Server.csproj.GenerateResource.cache
+G:\Uni SMTP\SMTP Server\SMTP Server\obj\Release\SMTP Server.csproj.CoreCompileInputs.cache
+G:\Uni SMTP\SMTP Server\SMTP Server\obj\Release\SMTP Server.exe
+G:\Uni SMTP\SMTP Server\SMTP Server\obj\Release\SMTP Server.pdb
